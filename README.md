@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Giyansan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning how to code
 - 📫 How to reach me fgiansandrex@gmail.com
 - 😄 Pronouns: He/Him
 
